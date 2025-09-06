@@ -58,7 +58,7 @@ The page is fully responsive and adapts to different screen sizes:
 
 ## 📸 Preview
 
-![Blog Preview](https://blog-page-azure-seven.vercel.app/)
+![Blog Preview]    (https://blog-page-azure-seven.vercel.app/)
 
 ---
 
